@@ -13,7 +13,7 @@ This repository contains a simple Python project that performs basic arithmetic 
 
 1. Clone the repository:
 git clone https://github.com/21f3000697/21f3000697_git_challenge_lab.git
-cd 21f3000697_git_challenge_lab.git
+  cd 21f3000697_git_challenge_lab.git
 2. Run the main program:
 
 python main.py
